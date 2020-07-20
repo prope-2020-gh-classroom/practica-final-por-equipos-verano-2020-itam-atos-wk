@@ -6,10 +6,7 @@
 
 ## Integrantes:
 
-* Aarón Torrijos Solís (project manager)
-* Oscar Arturo Bringas López
-
 |Integrante|User github|
 |:--:|:--:|
-|Aarón|[atos-wk]()|
-|Arturo|[Acturio](https://github.com/Acturio)|
+|Aarón Torrijos Solís (project manager)|[atos-wk]()|
+|Oscar Arturo Bringas López|[Acturio](https://github.com/Acturio)|
