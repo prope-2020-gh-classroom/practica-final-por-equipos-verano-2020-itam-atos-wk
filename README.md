@@ -32,3 +32,4 @@ R
 * library(magrittr)
 * library(readr)
 * library(forecast)
+* library(tidyverse)
