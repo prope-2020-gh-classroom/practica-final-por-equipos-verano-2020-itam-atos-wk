@@ -4,7 +4,7 @@
 
 |Integrante|User github|
 |:--:|:--:|
-|Aarón Torrijos Solís (project manager)|[https://github.com/atos-wk]()|
+|Aarón Torrijos Solís (project manager)|[atos-wk](https://github.com/atos-wk)|
 |Oscar Arturo Bringas López|[Acturio](https://github.com/Acturio)|
 
 ## Tema: 
