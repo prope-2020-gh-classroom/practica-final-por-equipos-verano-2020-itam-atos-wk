@@ -24,3 +24,11 @@ Adicionalmente, se realiza un análisis bayesiano que tiene por objetivo...
 
 ## Lenguaje: 
 R
+
+## Librerías:
+
+* library(dplyr)
+* library(lubridate)
+* library(magrittr)
+* library(readr)
+* library(forecast)
