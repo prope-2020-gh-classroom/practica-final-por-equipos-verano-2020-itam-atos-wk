@@ -13,7 +13,7 @@ Análisis de incidencia delictiva en la Ciudad de México mediante series de tie
 ## Descripción:
 Usando los datos proporcionados por la Secretaría de Seguridad Ciudadana de la Ciudad de México, se realiza un análisis de series de tiempo para conocer el comportamiento, frecuencia y patrón de ocurrencia de delitos en la Ciudad de México. A través de este estudio se logra identificar los días en los que se reportan más delitos. Se observa la cantidad de delitos en cada una de las alcaldías de la Ciudad y se realiza un análisis de correlación entre la cantidad poblacional en cada alcaldía y el volumen de delitos reportados.
 
-Adicionalmente, se realiza un análisis bayesiano que tiene por objetivo...
+Adicionalmente, se realiza un análisis bayesiano que tiene por objetivo especificar la distribución del parámetro $\lambda$ si se asigna una distribución $𝑃𝑜𝑖𝑠𝑠𝑜𝑛$ al número de denuncias presentadas en cada alcaldía.
 
 ## Datos:
 * [Delitos en la Ciudad de México](https://datos.cdmx.gob.mx/explore/dataset/carpetas-de-investigacion-pgj-cdmx/export/)
